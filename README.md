@@ -1,0 +1,2 @@
+# mineawaybot
+Powerd By Stack
